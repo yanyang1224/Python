@@ -1,0 +1,257 @@
+2019-07-20 21:23:32,439 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003709838
+2019-07-20 21:24:10,755 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:19,830 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726308
+2019-07-20 21:26:21,442 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:21,608 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726309
+2019-07-20 21:26:21,608 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:21,635 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726310
+2019-07-20 21:26:21,724 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:21,796 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726311
+2019-07-20 21:26:22,082 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:22,119 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726312
+2019-07-20 21:26:22,138 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:22,187 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726315
+2019-07-20 21:26:22,550 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:23,104 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726317
+2019-07-20 21:26:23,106 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:23,135 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726318
+2019-07-20 21:26:23,158 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:23,939 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726474
+2019-07-20 21:26:23,950 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:23,989 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726475
+2019-07-20 21:26:24,462 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:24,498 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003662056
+2019-07-20 21:26:24,571 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:24,723 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003662074
+2019-07-20 21:26:24,770 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:24,804 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003662084
+2019-07-20 21:26:24,806 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:24,913 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003662125
+2019-07-20 21:26:24,914 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:24,947 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003662130
+2019-07-20 21:26:24,954 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:24,984 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003662142
+2019-07-20 21:26:25,000 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:25,336 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003662158
+2019-07-20 21:26:25,338 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:25,367 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003662165
+2019-07-20 21:26:25,368 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:25,402 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003662167
+2019-07-20 21:26:25,407 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:25,439 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003644945
+2019-07-20 21:26:25,608 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:25,644 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003644952
+2019-07-20 21:26:25,645 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:25,673 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003644963
+2019-07-20 21:26:25,680 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,100 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003644967
+2019-07-20 21:26:26,191 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,210 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003644983
+2019-07-20 21:26:26,217 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,235 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003644988
+2019-07-20 21:26:26,239 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,270 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003644995
+2019-07-20 21:26:26,272 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,535 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003644999
+2019-07-20 21:26:26,537 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,565 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003645008
+2019-07-20 21:26:26,572 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,714 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003645011
+2019-07-20 21:26:26,715 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,755 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003645014
+2019-07-20 21:26:26,763 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,797 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003645018
+2019-07-20 21:26:26,800 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,831 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003645021
+2019-07-20 21:26:26,832 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,890 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003645028
+2019-07-20 21:26:26,897 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,923 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003645033
+2019-07-20 21:26:26,925 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,949 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003645042
+2019-07-20 21:26:26,958 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:26,989 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003583430
+2019-07-20 21:26:26,993 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:27,039 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003583502
+2019-07-20 21:26:27,060 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:27,091 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003583505
+2019-07-20 21:26:27,353 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:27,523 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003583536
+2019-07-20 21:26:27,530 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:27,927 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003583538
+2019-07-20 21:26:27,928 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:27,959 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003723340
+2019-07-20 21:26:28,817 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:28,845 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003723351
+2019-07-20 21:26:28,856 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:28,880 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003723354
+2019-07-20 21:26:28,882 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:28,905 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003723366
+2019-07-20 21:26:28,906 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:28,929 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003723367
+2019-07-20 21:26:28,932 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:28,962 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003723368
+2019-07-20 21:26:28,967 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:29,025 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003723369
+2019-07-20 21:26:29,462 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:29,490 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003723375
+2019-07-20 21:26:29,490 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:29,534 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579607
+2019-07-20 21:26:29,536 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:29,559 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579608
+2019-07-20 21:26:29,561 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:29,578 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579609
+2019-07-20 21:26:29,590 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:29,611 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579631
+2019-07-20 21:26:29,614 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:29,656 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579647
+2019-07-20 21:26:29,663 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:29,679 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579651
+2019-07-20 21:26:29,683 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,259 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579660
+2019-07-20 21:26:30,472 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,502 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579661
+2019-07-20 21:26:30,504 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,549 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579662
+2019-07-20 21:26:30,549 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,582 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579663
+2019-07-20 21:26:30,583 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,614 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579664
+2019-07-20 21:26:30,615 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,646 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579665
+2019-07-20 21:26:30,649 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,717 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579666
+2019-07-20 21:26:30,718 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,740 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579667
+2019-07-20 21:26:30,742 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,764 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579677
+2019-07-20 21:26:30,765 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,798 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579678
+2019-07-20 21:26:30,800 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,844 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579680
+2019-07-20 21:26:30,850 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,867 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579688
+2019-07-20 21:26:30,867 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,885 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579689
+2019-07-20 21:26:30,886 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,926 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579690
+2019-07-20 21:26:30,934 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,960 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579691
+2019-07-20 21:26:30,973 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:30,998 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579692
+2019-07-20 21:26:31,001 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,308 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579693
+2019-07-20 21:26:31,350 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,375 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579694
+2019-07-20 21:26:31,378 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,408 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579695
+2019-07-20 21:26:31,414 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,454 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579696
+2019-07-20 21:26:31,455 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,488 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579698
+2019-07-20 21:26:31,490 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,517 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579700
+2019-07-20 21:26:31,524 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,540 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579701
+2019-07-20 21:26:31,541 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,558 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579702
+2019-07-20 21:26:31,562 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,590 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579703
+2019-07-20 21:26:31,590 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,611 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579704
+2019-07-20 21:26:31,611 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,633 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579706
+2019-07-20 21:26:31,637 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,658 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579707
+2019-07-20 21:26:31,662 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,684 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579708
+2019-07-20 21:26:31,685 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,712 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579712
+2019-07-20 21:26:31,717 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,745 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579713
+2019-07-20 21:26:31,746 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,761 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579714
+2019-07-20 21:26:31,762 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,785 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003579717
+2019-07-20 21:26:31,787 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,809 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003626998
+2019-07-20 21:26:31,815 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,837 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003532999
+2019-07-20 21:26:31,839 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:31,979 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533001
+2019-07-20 21:26:31,987 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,007 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533002
+2019-07-20 21:26:32,012 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,042 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533003
+2019-07-20 21:26:32,051 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,070 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533004
+2019-07-20 21:26:32,073 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,101 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533005
+2019-07-20 21:26:32,101 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,123 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533006
+2019-07-20 21:26:32,128 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,170 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533007
+2019-07-20 21:26:32,173 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,194 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533008
+2019-07-20 21:26:32,196 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,215 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533011
+2019-07-20 21:26:32,216 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,310 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533012
+2019-07-20 21:26:32,312 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,335 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533013
+2019-07-20 21:26:32,341 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,362 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533015
+2019-07-20 21:26:32,365 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,387 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533016
+2019-07-20 21:26:32,391 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,516 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533017
+2019-07-20 21:26:32,520 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,548 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533018
+2019-07-20 21:26:32,553 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,592 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533019
+2019-07-20 21:26:32,592 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,616 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533020
+2019-07-20 21:26:32,617 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,636 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533021
+2019-07-20 21:26:32,642 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,662 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533023
+2019-07-20 21:26:32,663 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,696 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533026
+2019-07-20 21:26:32,700 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,729 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533031
+2019-07-20 21:26:32,732 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,762 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533035
+2019-07-20 21:26:32,763 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,778 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533036
+2019-07-20 21:26:32,779 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,932 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533038
+2019-07-20 21:26:32,934 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,958 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533039
+2019-07-20 21:26:32,960 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:32,992 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533040
+2019-07-20 21:26:32,994 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:33,026 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533057
+2019-07-20 21:26:33,030 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:33,120 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533058
+2019-07-20 21:26:33,122 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:33,144 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533060
+2019-07-20 21:26:33,152 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:33,177 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533063
+2019-07-20 21:26:33,179 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:33,205 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533067
+2019-07-20 21:26:33,206 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:33,237 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533071
+2019-07-20 21:26:33,312 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:33,453 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533076
+2019-07-20 21:26:33,470 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:33,494 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533077
+2019-07-20 21:26:33,495 - main.py[line:142] - ERROR - 处理内页失败:'NoneType' object has no attribute 'h2'
+2019-07-20 21:26:54,515 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533080
+2019-07-20 21:26:54,516 - main.py[line:142] - ERROR - 处理内页失败:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2019-07-20 21:27:15,534 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533081
+2019-07-20 21:27:15,545 - main.py[line:142] - ERROR - 处理内页失败:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2019-07-20 21:27:36,559 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003533083
+2019-07-20 21:27:36,579 - main.py[line:142] - ERROR - 处理内页失败:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2019-07-20 21:27:57,645 - main.py[line:141] - INFO - http://opac.gzlib.gov.cn/opac/book/3003726764
+2019-07-20 21:27:57,649 - main.py[line:142] - ERROR - 处理内页失败:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+2019-07-20 21:31:21,122 - main.py[line:61] - ERROR - 获取代理请求失败：HTTP Error 500: INTERNAL SERVER ERROR
