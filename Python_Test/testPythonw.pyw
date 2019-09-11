@@ -1,6 +1,3 @@
-
-#!/usr/bin/env python3
- 
 import time
 import logging
 import logging.handlers
@@ -23,3 +20,11 @@ myapp.addHandler(filehandler)
 while True:
     time.sleep(0.1)
     myapp.info("test")
+
+
+# python.exe在运行程序的时候，会弹出一个黑色的控制台窗口（也叫命令行窗口、DOS/CMD窗口）；
+# pythonw.exe是无窗口的Python可执行程序，意思是在运行程序的时候，没有窗口，代码在后台执行。
+# 跟 python.exe 比较起来，pythonw.exe 有以下的不同：
+# 1）执行时不会弹出控制台窗口（也叫 DOS 窗口）
+# 2）所有向原有的 stdout 和 stderr 的输出都无效
+# 3）所有从原有的 stdin 的读取都只会得到 EOF

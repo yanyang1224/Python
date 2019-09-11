@@ -1,10 +1,14 @@
-
-#!/usr/bin/env python3
- 
+import ctypes
 import time
 import logging
 import logging.handlers
- 
+
+
+whnd = ctypes.windll.kernel32.GetConsoleWindow()
+if whnd != 0:
+    ctypes.windll.user32.ShowWindow(whnd, 0)
+    ctypes.windll.kernel32.CloseHandle(whnd)
+
 # logging初始化工作
 logging.basicConfig()
  
@@ -23,3 +27,6 @@ myapp.addHandler(filehandler)
 while True:
     time.sleep(0.1)
     myapp.info("test")
+
+
+# 简单尝试了下，但是无效，可能没有找到正确的使用方法
