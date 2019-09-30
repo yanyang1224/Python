@@ -56,16 +56,52 @@ userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
 proxies = None
 session = requests.Session()
 
-def findBookInfo(bookid):
-    pageUrl = "http://www.openbookdata.com.cn/Book/" + bookid + ".html"
-    pageResponse = session.get(pageUrl,headers=headers)
-    pageStatusCode = pageResponse.status_code
-    # myapp.info(pageStatusCode)
-    if pageStatusCode == 403:
-        time.sleep(3)
-        findBookInfo(bookid)
-    else:
-        return pageResponse
+def findBookInfo(rowid,bookid):
+    try:
+        myapp.info(rowid)
+        pageUrl = "http://www.openbookdata.com.cn/Book/" + bookid + ".html"
+        pageResponse = session.get(pageUrl,headers=headers)
+        # pageStatusCode = pageResponse.status_code
+        pageHtml = pageResponse.text
+        pageSoup = BeautifulSoup(pageHtml,'html.parser')
+        # myapp.info(pageHtml)
+        Series = pageSoup.find('span',{'id':'Y_series'}).get_text()
+        Series = Series if Series != '-' else None
+        liList = pageSoup.find('ul',{'class':'book_info_box fl'}).find_all('li')
+        AuthorCountry = liList[4].find_all('span')[1].get_text()
+        AuthorCountry = AuthorCountry if AuthorCountry != '--' else None
+        Translator = liList[10].find_all('span')[1].get_text()
+        Translator = Translator if Translator != '--' else None
+        Pages = liList[14].find_all('span')[1].get_text()
+        Pages = Pages if Pages != '--' else None
+        Edition = liList[13].find_all('span')[1].get_text()
+        Edition = Edition if Edition != '--' else None
+        Editor = liList[9].find_all('span')[1].get_text()
+        Editor = Editor if Editor != '--' else None
+        Binding = liList[12].find_all('span')[1].get_text()
+        Binding = Binding if Binding != '--' else None
+        Format = liList[11].find_all('span')[1].get_text()
+        Format = Format if Format != '--' else None
+        imgUrl = pageSoup.find('img',{'id':'Y_img'}).get("src")
+        imgUrl = imgUrl if imgUrl != '/images/no-image200X200.jpg' else None
+        # myapp.info(imgUrl)
+        # myapp.info("translator:{0}".format(Translator))
+        # myapp.info("Pages:{0}".format(Pages))
+        # myapp.info("Edition:{0}".format(Edition))
+        # myapp.info("Editor:{0}".format(Editor))
+        # myapp.info("Binding:{0}".format(Binding))
+        # myapp.info("Format:{0}".format(Format))
+        # myapp.info("AuthorCountry:{0}".format(AuthorCountry))
+        
+        
+        try:
+            baseDb.ExecNonQuery("update resopenbook set Series=%s,AuthorCountry=%s,Translator=%s,Pages=%s,Edition=%s,Editor=%s,Binding=%s,Format=%s,imgUrl=%s where id=%s",(Series,AuthorCountry,Translator,Pages,Edition,Editor,Binding,Format,imgUrl,rowid))
+        except Exception as err:
+            myapp.error("数据库更新失败：{0}".format(err))
+        time.sleep(1)
+    except Exception as err:
+        myapp.error("访问页面失败：{0}".format(err))
+        time.sleep(2)
 
 def run():
     row = 0
@@ -82,53 +118,9 @@ def run():
             # cur.execute("select NewBookDecode from resopenbook where id>%d and id<=%d and image is null",(row,row+100)) # 每次获取100条图书id
             # data = cur.fetchall()
             for rowData in data:  # 遍历图书信息
-                try:
-                    # print(rowData)
-                    rowid = rowData['id']
-                    bookid = rowData['NewBookDecode']
-                    myapp.info(rowid)
-                    # pageUrl = "http://www.openbookdata.com.cn/Book/" + bookid + ".html"
-                    # pageResponse = session.get(pageUrl,headers=headers)
-                    # pageStatusCode = pageResponse.status_code
-                    pageResponse = findBookInfo(bookid)
-                    pageHtml = pageResponse.text
-                    pageSoup = BeautifulSoup(pageHtml,'html.parser')
-                    # myapp.info(pageHtml)
-                    Series = pageSoup.find('span',{'id':'Y_series'}).get_text()
-                    Series = Series if Series != '-' else None
-                    liList = pageSoup.find('ul',{'class':'book_info_box fl'}).find_all('li')
-                    AuthorCountry = liList[4].find_all('span')[1].get_text()
-                    AuthorCountry = AuthorCountry if AuthorCountry != '--' else None
-                    Translator = liList[10].find_all('span')[1].get_text()
-                    Translator = Translator if Translator != '--' else None
-                    Pages = liList[14].find_all('span')[1].get_text()
-                    Pages = Pages if Pages != '--' else None
-                    Edition = liList[13].find_all('span')[1].get_text()
-                    Edition = Edition if Edition != '--' else None
-                    Editor = liList[9].find_all('span')[1].get_text()
-                    Editor = Editor if Editor != '--' else None
-                    Binding = liList[12].find_all('span')[1].get_text()
-                    Binding = Binding if Binding != '--' else None
-                    Format = liList[11].find_all('span')[1].get_text()
-                    Format = Format if Format != '--' else None
-                    # myapp.info("translator:{0}".format(Translator))
-                    # myapp.info("Pages:{0}".format(Pages))
-                    # myapp.info("Edition:{0}".format(Edition))
-                    # myapp.info("Editor:{0}".format(Editor))
-                    # myapp.info("Binding:{0}".format(Binding))
-                    # myapp.info("Format:{0}".format(Format))
-                    # myapp.info("AuthorCountry:{0}".format(AuthorCountry))
-                    
-                    
-                    try:
-                        baseDb.ExecNonQuery("update resopenbook set Series=%s,AuthorCountry=%s,Translator=%s,Pages=%s,Edition=%s,Editor=%s,Binding=%s,Format=%s where id=%s",(Series,AuthorCountry,Translator,Pages,Edition,Editor,Binding,Format,rowid))
-                    except Exception as err:
-                        myapp.error("数据库更新失败：{0}".format(err))
-                    time.sleep(1)
-                except Exception as err:
-                    myapp.error("访问页面失败：{0}".format(err))
-                    time.sleep(1)
-                
+                rowid = rowData['id']
+                bookid = rowData['NewBookDecode']
+                findBookInfo(rowid,bookid)
                 
         except Exception as err:
             myapp.info("批次：{0}".format(row))
