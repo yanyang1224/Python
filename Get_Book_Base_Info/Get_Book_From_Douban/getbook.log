@@ -1,0 +1,492 @@
+2019-09-30 17:19:13,115 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:13,164 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:13,433 - get_book_by_proxy.py[line:151] - ERROR - id:3000001访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000001?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x045A3550>: Failed to establish a new connection: [WinError 10054] 远程主机强迫关闭了一个现有的连接。'))
+2019-09-30 17:19:13,498 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:13,499 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:13,564 - get_book_by_proxy.py[line:151] - ERROR - id:3000002访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000002?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x045A3870>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:13,624 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:13,626 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:13,700 - get_book_by_proxy.py[line:151] - ERROR - id:3000003访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000003?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x045A3D30>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:13,770 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:13,774 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:13,850 - get_book_by_proxy.py[line:151] - ERROR - id:3000004访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000004?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04C50210>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:13,907 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:13,908 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:13,990 - get_book_by_proxy.py[line:151] - ERROR - id:3000005访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000005?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x045A3B30>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:14,061 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:14,062 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:14,127 - get_book_by_proxy.py[line:151] - ERROR - id:3000006访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000006?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x045A3B70>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:14,195 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:14,197 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:14,265 - get_book_by_proxy.py[line:151] - ERROR - id:3000007访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000007?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x045A3490>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:14,383 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:14,387 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:14,459 - get_book_by_proxy.py[line:151] - ERROR - id:3000008访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000008?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04C50710>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:14,538 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:14,540 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:14,611 - get_book_by_proxy.py[line:151] - ERROR - id:3000009访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000009?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04C50BD0>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:14,680 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:14,682 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:14,753 - get_book_by_proxy.py[line:151] - ERROR - id:3000010访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000010?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04C50BD0>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:14,826 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:14,828 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:14,906 - get_book_by_proxy.py[line:151] - ERROR - id:3000011访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000011?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04C505F0>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:14,978 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:14,980 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:15,038 - get_book_by_proxy.py[line:151] - ERROR - id:3000012访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000012?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x045A3630>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:15,123 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:15,125 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:19:15,200 - get_book_by_proxy.py[line:151] - ERROR - id:3000013访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000013?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x045A3D50>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:19:15,262 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"112.117.144.169","port":7148,"expire_time":"2019-09-30 17:43:19","city":"\u6606\u660e","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:19:15,263 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：112.117.144.169:7148
+2019-09-30 17:23:01,221 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"106.92.102.162","port":1209,"expire_time":"2019-09-30 17:31:58","city":"\u91cd\u5e86","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:23:01,223 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：106.92.102.162:1209
+2019-09-30 17:23:01,233 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://106.92.102.162:1209', 'https': 'socks5://106.92.102.162:1209'}
+2019-09-30 17:23:01,234 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:23:02,145 - get_book_by_proxy.py[line:152] - ERROR - id:3000001访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000001?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04523470>: Failed to establish a new connection: [WinError 10054] 远程主机强迫关闭了一个现有的连接。'))
+2019-09-30 17:23:02,232 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"106.92.102.162","port":1209,"expire_time":"2019-09-30 17:31:58","city":"\u91cd\u5e86","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:23:02,234 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：106.92.102.162:1209
+2019-09-30 17:23:02,235 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://106.92.102.162:1209', 'https': 'socks5://106.92.102.162:1209'}
+2019-09-30 17:23:02,249 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:25:10,531 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"114.103.137.173","port":39828,"expire_time":"2019-09-30 17:33:22","city":"\u5ba3\u57ce","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:25:10,533 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：114.103.137.173:39828
+2019-09-30 17:25:10,543 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://114.103.137.173:39828', 'https': 'socks5://114.103.137.173:39828'}
+2019-09-30 17:25:10,544 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:25:10,820 - get_book_by_proxy.py[line:152] - ERROR - id:3000001访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000001?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x03EE44B0>: Failed to establish a new connection: [WinError 10054] 远程主机强迫关闭了一个现有的连接。'))
+2019-09-30 17:25:10,890 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"114.103.137.173","port":39828,"expire_time":"2019-09-30 17:33:22","city":"\u5ba3\u57ce","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:25:10,892 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：114.103.137.173:39828
+2019-09-30 17:25:10,905 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://114.103.137.173:39828', 'https': 'socks5://114.103.137.173:39828'}
+2019-09-30 17:25:10,906 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:25:10,978 - get_book_by_proxy.py[line:152] - ERROR - id:3000002访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000002?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x03EE4890>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:25:11,049 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"114.103.137.173","port":39828,"expire_time":"2019-09-30 17:33:22","city":"\u5ba3\u57ce","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:25:11,050 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：114.103.137.173:39828
+2019-09-30 17:25:11,052 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://114.103.137.173:39828', 'https': 'socks5://114.103.137.173:39828'}
+2019-09-30 17:25:11,053 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:25:11,133 - get_book_by_proxy.py[line:152] - ERROR - id:3000003访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000003?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x03EE4D70>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:25:11,226 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"114.103.137.173","port":39828,"expire_time":"2019-09-30 17:33:22","city":"\u5ba3\u57ce","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:25:11,230 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：114.103.137.173:39828
+2019-09-30 17:25:11,259 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://114.103.137.173:39828', 'https': 'socks5://114.103.137.173:39828'}
+2019-09-30 17:25:11,260 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:25:11,319 - get_book_by_proxy.py[line:152] - ERROR - id:3000004访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000004?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x0458F250>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:25:11,395 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"114.103.137.173","port":39828,"expire_time":"2019-09-30 17:33:22","city":"\u5ba3\u57ce","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:25:11,396 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：114.103.137.173:39828
+2019-09-30 17:25:11,397 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://114.103.137.173:39828', 'https': 'socks5://114.103.137.173:39828'}
+2019-09-30 17:25:11,410 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:25:11,484 - get_book_by_proxy.py[line:152] - ERROR - id:3000005访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000005?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x03EE4EB0>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:25:11,562 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"114.103.137.173","port":39828,"expire_time":"2019-09-30 17:33:22","city":"\u5ba3\u57ce","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:25:11,563 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：114.103.137.173:39828
+2019-09-30 17:25:11,583 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://114.103.137.173:39828', 'https': 'socks5://114.103.137.173:39828'}
+2019-09-30 17:25:11,584 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:25:11,639 - get_book_by_proxy.py[line:152] - ERROR - id:3000006访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000006?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x03EE4B30>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:25:11,723 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"114.103.137.173","port":39828,"expire_time":"2019-09-30 17:33:22","city":"\u5ba3\u57ce","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:25:11,725 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：114.103.137.173:39828
+2019-09-30 17:25:11,738 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://114.103.137.173:39828', 'https': 'socks5://114.103.137.173:39828'}
+2019-09-30 17:25:11,740 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:25:11,795 - get_book_by_proxy.py[line:152] - ERROR - id:3000007访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000007?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x03EE45D0>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:25:11,881 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"114.103.137.173","port":39828,"expire_time":"2019-09-30 17:33:22","city":"\u5ba3\u57ce","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:25:11,883 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：114.103.137.173:39828
+2019-09-30 17:25:11,899 - get_book_by_proxy.py[line:122] - INFO - {'http': 'socks5://114.103.137.173:39828', 'https': 'socks5://114.103.137.173:39828'}
+2019-09-30 17:25:11,900 - get_book_by_proxy.py[line:123] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:25:11,959 - get_book_by_proxy.py[line:152] - ERROR - id:3000008访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000008?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x0458F750>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:27:58,696 - get_book_by_proxy.py[line:140] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:27:58,827 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"113.225.81.49","port":6030,"expire_time":"2019-09-30 17:49:42","city":"\u6c88\u9633","isp":"\u8054\u901a"}]}
+2019-09-30 17:27:58,828 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：113.225.81.49:6030
+2019-09-30 17:27:58,838 - get_book_by_proxy.py[line:123] - INFO - {'http': 'socks5://113.225.81.49:6030', 'https': 'socks5://113.225.81.49:6030'}
+2019-09-30 17:27:58,839 - get_book_by_proxy.py[line:124] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:27:59,404 - get_book_by_proxy.py[line:154] - ERROR - id:3000001访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000001?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04873490>: Failed to establish a new connection: [WinError 10054] 远程主机强迫关闭了一个现有的连接。'))
+2019-09-30 17:27:59,496 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"113.225.81.49","port":6030,"expire_time":"2019-09-30 17:49:42","city":"\u6c88\u9633","isp":"\u8054\u901a"}]}
+2019-09-30 17:27:59,498 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：113.225.81.49:6030
+2019-09-30 17:27:59,510 - get_book_by_proxy.py[line:123] - INFO - {'http': 'socks5://113.225.81.49:6030', 'https': 'socks5://113.225.81.49:6030'}
+2019-09-30 17:27:59,511 - get_book_by_proxy.py[line:124] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:27:59,634 - get_book_by_proxy.py[line:154] - ERROR - id:3000002访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000002?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x048738B0>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:27:59,727 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"113.225.81.49","port":6030,"expire_time":"2019-09-30 17:49:42","city":"\u6c88\u9633","isp":"\u8054\u901a"}]}
+2019-09-30 17:27:59,729 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：113.225.81.49:6030
+2019-09-30 17:27:59,741 - get_book_by_proxy.py[line:123] - INFO - {'http': 'socks5://113.225.81.49:6030', 'https': 'socks5://113.225.81.49:6030'}
+2019-09-30 17:27:59,742 - get_book_by_proxy.py[line:124] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:27:59,855 - get_book_by_proxy.py[line:154] - ERROR - id:3000003访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000003?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04873D70>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:27:59,932 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"113.225.81.49","port":6030,"expire_time":"2019-09-30 17:49:42","city":"\u6c88\u9633","isp":"\u8054\u901a"}]}
+2019-09-30 17:27:59,934 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：113.225.81.49:6030
+2019-09-30 17:27:59,949 - get_book_by_proxy.py[line:123] - INFO - {'http': 'socks5://113.225.81.49:6030', 'https': 'socks5://113.225.81.49:6030'}
+2019-09-30 17:27:59,950 - get_book_by_proxy.py[line:124] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:28:00,082 - get_book_by_proxy.py[line:154] - ERROR - id:3000004访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000004?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04F1D250>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:30:59,847 - get_book_by_proxy.py[line:140] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:31:00,041 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"115.237.147.10","port":6030,"expire_time":"2019-09-30 17:39:12","city":"\u7ecd\u5174","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:31:00,043 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：115.237.147.10:6030
+2019-09-30 17:31:00,051 - get_book_by_proxy.py[line:123] - INFO - {'http': 'socks5://115.237.147.10:6030', 'https': 'socks5://115.237.147.10:6030'}
+2019-09-30 17:31:00,053 - get_book_by_proxy.py[line:124] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:31:00,628 - get_book_by_proxy.py[line:154] - ERROR - id:3000001访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000001?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x047634F0>: Failed to establish a new connection: [WinError 10054] 远程主机强迫关闭了一个现有的连接。'))
+2019-09-30 17:31:00,721 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"115.237.147.10","port":6030,"expire_time":"2019-09-30 17:39:12","city":"\u7ecd\u5174","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:31:00,723 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：115.237.147.10:6030
+2019-09-30 17:31:00,736 - get_book_by_proxy.py[line:123] - INFO - {'http': 'socks5://115.237.147.10:6030', 'https': 'socks5://115.237.147.10:6030'}
+2019-09-30 17:31:00,737 - get_book_by_proxy.py[line:124] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:31:00,973 - get_book_by_proxy.py[line:154] - ERROR - id:3000002访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000002?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04763910>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:31:01,114 - get_book_by_proxy.py[line:87] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"115.237.147.10","port":6030,"expire_time":"2019-09-30 17:39:12","city":"\u7ecd\u5174","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:31:01,116 - get_book_by_proxy.py[line:95] - INFO - 代理获取成功：115.237.147.10:6030
+2019-09-30 17:31:01,129 - get_book_by_proxy.py[line:123] - INFO - {'http': 'socks5://115.237.147.10:6030', 'https': 'socks5://115.237.147.10:6030'}
+2019-09-30 17:31:01,130 - get_book_by_proxy.py[line:124] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:33:26,214 - get_book_by_proxy.py[line:140] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:34:53,089 - get_book_by_proxy.py[line:141] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:48:50,166 - get_book_by_proxy.py[line:141] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:48:50,743 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"183.165.29.23","port":39828,"expire_time":"2019-09-30 18:13:33","city":"\u5ba3\u57ce","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:48:50,745 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：183.165.29.23:39828
+2019-09-30 17:48:50,770 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://183.165.29.23:39828', 'https': 'socks5://183.165.29.23:39828'}
+2019-09-30 17:48:50,772 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:48:51,274 - get_book_by_proxy.py[line:157] - ERROR - id:3000001数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000001" }
+2019-09-30 17:48:51,294 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://183.165.29.23:39828', 'https': 'socks5://183.165.29.23:39828'}
+2019-09-30 17:48:51,319 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:48:51,677 - get_book_by_proxy.py[line:157] - ERROR - id:3000002数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000002" }
+2019-09-30 17:48:51,678 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://183.165.29.23:39828', 'https': 'socks5://183.165.29.23:39828'}
+2019-09-30 17:48:51,689 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:48:52,001 - get_book_by_proxy.py[line:157] - ERROR - id:3000003数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000003" }
+2019-09-30 17:48:52,003 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://183.165.29.23:39828', 'https': 'socks5://183.165.29.23:39828'}
+2019-09-30 17:48:52,016 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:48:52,331 - get_book_by_proxy.py[line:157] - ERROR - id:3000004数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000004" }
+2019-09-30 17:48:52,333 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://183.165.29.23:39828', 'https': 'socks5://183.165.29.23:39828'}
+2019-09-30 17:48:52,350 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:49:22,244 - get_book_by_proxy.py[line:141] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:49:22,821 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"221.229.176.217","port":1209,"expire_time":"2019-09-30 17:57:22","city":"\u5f90\u5dde","isp":"\u7535\u4fe1"}]}
+2019-09-30 17:49:22,824 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：221.229.176.217:1209
+2019-09-30 17:49:22,871 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://221.229.176.217:1209', 'https': 'socks5://221.229.176.217:1209'}
+2019-09-30 17:49:22,873 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:53:44,162 - get_book_by_proxy.py[line:141] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:54:06,097 - get_book_by_proxy.py[line:141] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:54:38,347 - get_book_by_proxy.py[line:141] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:54:48,192 - get_book_by_proxy.py[line:141] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:54:48,792 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"120.7.214.77","port":4920,"expire_time":"2019-09-30 18:24:17","city":"\u5eca\u574a","isp":"\u8054\u901a"}]}
+2019-09-30 17:54:48,793 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：120.7.214.77:4920
+2019-09-30 17:54:48,825 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://120.7.214.77:4920', 'https': 'socks5://120.7.214.77:4920'}
+2019-09-30 17:54:48,826 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:54:52,851 - get_book_by_proxy.py[line:159] - ERROR - id:3000001访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000001?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04327910>: Failed to establish a new connection: [WinError 10054] 远程主机强迫关闭了一个现有的连接。'))
+2019-09-30 17:54:52,987 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"120.7.214.77","port":4920,"expire_time":"2019-09-30 18:24:17","city":"\u5eca\u574a","isp":"\u8054\u901a"}]}
+2019-09-30 17:54:53,019 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：120.7.214.77:4920
+2019-09-30 17:54:53,020 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://120.7.214.77:4920', 'https': 'socks5://120.7.214.77:4920'}
+2019-09-30 17:54:53,022 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:54:53,297 - get_book_by_proxy.py[line:159] - ERROR - id:3000002访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000002?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x043276F0>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:54:53,379 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"120.7.214.77","port":4920,"expire_time":"2019-09-30 18:24:17","city":"\u5eca\u574a","isp":"\u8054\u901a"}]}
+2019-09-30 17:54:53,381 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：120.7.214.77:4920
+2019-09-30 17:54:53,383 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://120.7.214.77:4920', 'https': 'socks5://120.7.214.77:4920'}
+2019-09-30 17:54:53,395 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 17:54:53,688 - get_book_by_proxy.py[line:159] - ERROR - id:3000003访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000003?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x043277B0>: Failed to establish a new connection: Connection closed unexpectedly'))
+2019-09-30 17:54:53,757 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"cached","data":[{"ip":"120.7.214.77","port":4920,"expire_time":"2019-09-30 18:24:17","city":"\u5eca\u574a","isp":"\u8054\u901a"}]}
+2019-09-30 17:54:53,759 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：120.7.214.77:4920
+2019-09-30 17:54:53,760 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://120.7.214.77:4920', 'https': 'socks5://120.7.214.77:4920'}
+2019-09-30 17:54:53,761 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:13,898 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"106.57.151.168","port":39828,"expire_time":"2019-09-30 18:28:45","city":"\u5927\u7406\u767d\u65cf\u81ea\u6cbb\u5dde","isp":"\u7535\u4fe1"}]}
+2019-09-30 18:06:13,917 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：106.57.151.168:39828
+2019-09-30 18:06:13,919 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://106.57.151.168:39828', 'https': 'socks5://106.57.151.168:39828'}
+2019-09-30 18:06:13,929 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:14,717 - get_book_by_proxy.py[line:157] - ERROR - id:3000001数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000001" }
+2019-09-30 18:06:14,729 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://106.57.151.168:39828', 'https': 'socks5://106.57.151.168:39828'}
+2019-09-30 18:06:14,730 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:29,416 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"180.122.41.103","port":14865,"expire_time":"2019-09-30 18:15:12","city":"\u6cf0\u5dde","isp":"\u7535\u4fe1"}]}
+2019-09-30 18:06:29,418 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：180.122.41.103:14865
+2019-09-30 18:06:29,427 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:29,428 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:29,895 - get_book_by_proxy.py[line:157] - ERROR - id:3000001数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000001" }
+2019-09-30 18:06:29,905 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:29,906 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:30,204 - get_book_by_proxy.py[line:157] - ERROR - id:3000002数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000002" }
+2019-09-30 18:06:30,205 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:30,206 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:30,558 - get_book_by_proxy.py[line:157] - ERROR - id:3000003数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000003" }
+2019-09-30 18:06:30,559 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:30,560 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:30,897 - get_book_by_proxy.py[line:157] - ERROR - id:3000004数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000004" }
+2019-09-30 18:06:30,899 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:30,913 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:31,208 - get_book_by_proxy.py[line:157] - ERROR - id:3000005数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000005" }
+2019-09-30 18:06:31,209 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:31,211 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:31,498 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:31,499 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:31,817 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:31,818 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:32,169 - get_book_by_proxy.py[line:157] - ERROR - id:3000008数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000008" }
+2019-09-30 18:06:32,170 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:32,182 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:32,464 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:32,466 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:32,795 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:32,796 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:33,090 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:33,091 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:33,422 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:33,424 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:33,758 - get_book_by_proxy.py[line:157] - ERROR - id:3000013数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000013" }
+2019-09-30 18:06:33,759 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:33,770 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:34,079 - get_book_by_proxy.py[line:157] - ERROR - id:3000014数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000014" }
+2019-09-30 18:06:34,080 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:34,092 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:34,407 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:34,408 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:34,740 - get_book_by_proxy.py[line:157] - ERROR - id:3000016数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000016" }
+2019-09-30 18:06:34,742 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:34,754 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:35,106 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:35,107 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:35,425 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:35,426 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:35,722 - get_book_by_proxy.py[line:157] - ERROR - id:3000019数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000019" }
+2019-09-30 18:06:35,723 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:35,724 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:36,082 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:36,083 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:36,407 - get_book_by_proxy.py[line:157] - ERROR - id:3000021数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000021" }
+2019-09-30 18:06:36,409 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:36,421 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:36,739 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:36,740 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:37,076 - get_book_by_proxy.py[line:157] - ERROR - id:3000023数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000023" }
+2019-09-30 18:06:37,078 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:37,091 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:37,425 - get_book_by_proxy.py[line:157] - ERROR - id:3000024数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000024" }
+2019-09-30 18:06:37,427 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:37,439 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:37,760 - get_book_by_proxy.py[line:157] - ERROR - id:3000025数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000025" }
+2019-09-30 18:06:37,761 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:37,762 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:38,085 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:38,088 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:38,474 - get_book_by_proxy.py[line:157] - ERROR - id:3000027数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000027" }
+2019-09-30 18:06:38,478 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:38,492 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:38,878 - get_book_by_proxy.py[line:157] - ERROR - id:3000028数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000028" }
+2019-09-30 18:06:38,880 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:38,881 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:39,200 - get_book_by_proxy.py[line:157] - ERROR - id:3000029数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000029" }
+2019-09-30 18:06:39,202 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:39,214 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:39,569 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.122.41.103:14865', 'https': 'socks5://180.122.41.103:14865'}
+2019-09-30 18:06:39,571 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:40,050 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"180.125.17.185","port":1209,"expire_time":"2019-09-30 18:36:14","city":"\u6dee\u5b89","isp":"\u7535\u4fe1"}]}
+2019-09-30 18:06:40,053 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：180.125.17.185:1209
+2019-09-30 18:06:40,078 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:40,079 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:40,607 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:40,610 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:41,044 - get_book_by_proxy.py[line:157] - ERROR - id:3000033数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000033" }
+2019-09-30 18:06:41,046 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:41,061 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:41,475 - get_book_by_proxy.py[line:157] - ERROR - id:3000034数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000034" }
+2019-09-30 18:06:41,476 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:41,488 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:42,018 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:42,020 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:42,487 - get_book_by_proxy.py[line:157] - ERROR - id:3000036数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000036" }
+2019-09-30 18:06:42,489 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:42,509 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:42,864 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:42,865 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:43,179 - get_book_by_proxy.py[line:157] - ERROR - id:3000038数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000038" }
+2019-09-30 18:06:43,181 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:43,192 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:43,510 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:43,513 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:43,882 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:43,885 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:44,270 - get_book_by_proxy.py[line:157] - ERROR - id:3000041数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000041" }
+2019-09-30 18:06:44,274 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:44,303 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:44,770 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:44,773 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:46,222 - get_book_by_proxy.py[line:157] - ERROR - id:3000043数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000043" }
+2019-09-30 18:06:46,224 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:46,235 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:46,866 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:46,867 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:47,373 - get_book_by_proxy.py[line:157] - ERROR - id:3000045数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000045" }
+2019-09-30 18:06:47,376 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:47,377 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:47,879 - get_book_by_proxy.py[line:157] - ERROR - id:3000046数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000046" }
+2019-09-30 18:06:47,880 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:47,881 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:48,312 - get_book_by_proxy.py[line:157] - ERROR - id:3000047数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000047" }
+2019-09-30 18:06:48,314 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:48,326 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:48,648 - get_book_by_proxy.py[line:157] - ERROR - id:3000048数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000048" }
+2019-09-30 18:06:48,650 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:48,664 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:49,065 - get_book_by_proxy.py[line:157] - ERROR - id:3000049数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000049" }
+2019-09-30 18:06:49,067 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:49,082 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:49,500 - get_book_by_proxy.py[line:157] - ERROR - id:3000050数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000050" }
+2019-09-30 18:06:49,505 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:49,528 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:50,096 - get_book_by_proxy.py[line:157] - ERROR - id:3000051数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000051" }
+2019-09-30 18:06:50,098 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:50,110 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:50,509 - get_book_by_proxy.py[line:157] - ERROR - id:3000052数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000052" }
+2019-09-30 18:06:50,513 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:50,541 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:52,841 - get_book_by_proxy.py[line:157] - ERROR - id:3000053数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000053" }
+2019-09-30 18:06:52,843 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:52,861 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:53,513 - get_book_by_proxy.py[line:157] - ERROR - id:3000054数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000054" }
+2019-09-30 18:06:53,515 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:53,527 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:54,635 - get_book_by_proxy.py[line:157] - ERROR - id:3000055数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000055" }
+2019-09-30 18:06:54,636 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:54,649 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:56,265 - get_book_by_proxy.py[line:157] - ERROR - id:3000056数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000056" }
+2019-09-30 18:06:56,266 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:56,278 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:56,913 - get_book_by_proxy.py[line:157] - ERROR - id:3000057数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000057" }
+2019-09-30 18:06:56,914 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:56,927 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:57,516 - get_book_by_proxy.py[line:157] - ERROR - id:3000058数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000058" }
+2019-09-30 18:06:57,517 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:57,531 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:58,044 - get_book_by_proxy.py[line:157] - ERROR - id:3000059数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000059" }
+2019-09-30 18:06:58,045 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:58,057 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:58,537 - get_book_by_proxy.py[line:157] - ERROR - id:3000060数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000060" }
+2019-09-30 18:06:58,538 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:58,539 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:58,924 - get_book_by_proxy.py[line:157] - ERROR - id:3000061数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000061" }
+2019-09-30 18:06:58,926 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://180.125.17.185:1209', 'https': 'socks5://180.125.17.185:1209'}
+2019-09-30 18:06:58,941 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:06:59,531 - get_book_by_proxy.py[line:157] - ERROR - id:3000062数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000062" }
+2019-09-30 18:06:59,642 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"60.214.166.109","port":24409,"expire_time":"2019-09-30 18:10:46","city":"\u83b1\u829c","isp":"\u8054\u901a"}]}
+2019-09-30 18:06:59,644 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：60.214.166.109:24409
+2019-09-30 18:06:59,662 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:06:59,663 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:00,221 - get_book_by_proxy.py[line:157] - ERROR - id:3000063数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000063" }
+2019-09-30 18:07:00,222 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:00,223 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:00,564 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:00,565 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:00,924 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:00,925 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:01,280 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:01,281 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:01,643 - get_book_by_proxy.py[line:157] - ERROR - id:3000067数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000067" }
+2019-09-30 18:07:01,645 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:01,656 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:02,043 - get_book_by_proxy.py[line:157] - ERROR - id:3000068数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000068" }
+2019-09-30 18:07:02,044 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:02,057 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:02,414 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:02,415 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:02,808 - get_book_by_proxy.py[line:157] - ERROR - id:3000070数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000070" }
+2019-09-30 18:07:02,809 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:02,823 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:03,165 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:03,166 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:03,520 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:03,521 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:03,935 - get_book_by_proxy.py[line:157] - ERROR - id:3000073数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000073" }
+2019-09-30 18:07:03,937 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:03,948 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:04,332 - get_book_by_proxy.py[line:157] - ERROR - id:3000074数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000074" }
+2019-09-30 18:07:04,335 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:04,346 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:04,745 - get_book_by_proxy.py[line:157] - ERROR - id:3000075数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000075" }
+2019-09-30 18:07:04,773 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:04,774 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:05,129 - get_book_by_proxy.py[line:157] - ERROR - id:3000076数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000076" }
+2019-09-30 18:07:05,133 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:05,158 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:05,520 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:05,523 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:05,909 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:05,912 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:06,283 - get_book_by_proxy.py[line:157] - ERROR - id:3000079数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000079" }
+2019-09-30 18:07:06,285 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:06,296 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:06,746 - get_book_by_proxy.py[line:157] - ERROR - id:3000080数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000080" }
+2019-09-30 18:07:06,747 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:06,748 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:07,146 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:07,148 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:07,534 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:07,536 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:07,880 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:07,882 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:08,246 - get_book_by_proxy.py[line:157] - ERROR - id:3000084数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000084" }
+2019-09-30 18:07:08,248 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:08,259 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:08,645 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:08,647 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:09,010 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:09,011 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:09,238 - get_book_by_proxy.py[line:159] - ERROR - id:3000087访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000087?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by SSLError(SSLError("bad handshake: Error([('SSL routines', 'tls_process_server_certificate', 'certificate verify failed')])")))
+2019-09-30 18:07:09,249 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:09,250 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:09,585 - get_book_by_proxy.py[line:157] - ERROR - id:3000088数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000088" }
+2019-09-30 18:07:09,588 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:09,606 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:09,992 - get_book_by_proxy.py[line:157] - ERROR - id:3000089数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000089" }
+2019-09-30 18:07:09,994 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:10,012 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:10,345 - get_book_by_proxy.py[line:157] - ERROR - id:3000090数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000090" }
+2019-09-30 18:07:10,347 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:10,361 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:10,721 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:10,722 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:11,075 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:11,078 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:11,463 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://60.214.166.109:24409', 'https': 'socks5://60.214.166.109:24409'}
+2019-09-30 18:07:11,464 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:07:11,929 - get_book_by_proxy.py[line:88] - INFO - 获取代理：{"code":200,"msg":"ok","data":[{"ip":"106.92.102.239","port":4920,"expire_time":"2019-09-30 18:36:10","city":"\u91cd\u5e86","isp":"\u7535\u4fe1"}]}
+2019-09-30 18:07:11,933 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：106.92.102.239:4920
+2019-09-30 18:07:11,959 - get_book_by_proxy.py[line:124] - INFO - {'http': 'socks5://106.92.102.239:4920', 'https': 'socks5://106.92.102.239:4920'}
+2019-09-30 18:07:11,961 - get_book_by_proxy.py[line:125] - INFO - {'Proxy-Authorization': 'Basic MTUyOTcyNjI5OUBxcS5jb206Q3l5MTIzNDU2'}
+2019-09-30 18:08:46,019 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：42.57.43.54:4920
+2019-09-30 18:08:46,669 - get_book_by_proxy.py[line:157] - ERROR - id:3000090数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000090" }
+2019-09-30 18:08:49,060 - get_book_by_proxy.py[line:157] - ERROR - id:3000095数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000095" }
+2019-09-30 18:08:49,526 - get_book_by_proxy.py[line:157] - ERROR - id:3000096数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000096" }
+2019-09-30 18:08:51,046 - get_book_by_proxy.py[line:157] - ERROR - id:3000099数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000099" }
+2019-09-30 18:08:51,582 - get_book_by_proxy.py[line:157] - ERROR - id:3000100数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000100" }
+2019-09-30 18:08:53,880 - get_book_by_proxy.py[line:157] - ERROR - id:3000105数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000105" }
+2019-09-30 18:08:54,322 - get_book_by_proxy.py[line:157] - ERROR - id:3000106数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000106" }
+2019-09-30 18:08:54,805 - get_book_by_proxy.py[line:157] - ERROR - id:3000107数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000107" }
+2019-09-30 18:08:55,731 - get_book_by_proxy.py[line:157] - ERROR - id:3000109数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000109" }
+2019-09-30 18:08:57,710 - get_book_by_proxy.py[line:157] - ERROR - id:3000113数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000113" }
+2019-09-30 18:08:58,173 - get_book_by_proxy.py[line:157] - ERROR - id:3000114数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000114" }
+2019-09-30 18:08:58,665 - get_book_by_proxy.py[line:157] - ERROR - id:3000115数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000115" }
+2019-09-30 18:08:59,136 - get_book_by_proxy.py[line:157] - ERROR - id:3000116数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000116" }
+2019-09-30 18:09:00,098 - get_book_by_proxy.py[line:157] - ERROR - id:3000118数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000118" }
+2019-09-30 18:09:01,020 - get_book_by_proxy.py[line:157] - ERROR - id:3000120数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000120" }
+2019-09-30 18:09:01,163 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：114.105.185.149:7148
+2019-09-30 18:09:01,994 - get_book_by_proxy.py[line:157] - ERROR - id:3000122数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000122" }
+2019-09-30 18:09:02,953 - get_book_by_proxy.py[line:157] - ERROR - id:3000125数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000125" }
+2019-09-30 18:09:04,197 - get_book_by_proxy.py[line:157] - ERROR - id:3000129数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000129" }
+2019-09-30 18:09:05,143 - get_book_by_proxy.py[line:157] - ERROR - id:3000132数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000132" }
+2019-09-30 18:09:05,472 - get_book_by_proxy.py[line:157] - ERROR - id:3000133数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000133" }
+2019-09-30 18:09:06,772 - get_book_by_proxy.py[line:157] - ERROR - id:3000137数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000137" }
+2019-09-30 18:09:07,124 - get_book_by_proxy.py[line:157] - ERROR - id:3000138数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000138" }
+2019-09-30 18:09:07,746 - get_book_by_proxy.py[line:157] - ERROR - id:3000140数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000140" }
+2019-09-30 18:09:08,415 - get_book_by_proxy.py[line:157] - ERROR - id:3000142数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000142" }
+2019-09-30 18:09:10,014 - get_book_by_proxy.py[line:157] - ERROR - id:3000147数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000147" }
+2019-09-30 18:09:11,499 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：60.185.72.167:14865
+2019-09-30 18:09:24,957 - get_book_by_proxy.py[line:157] - ERROR - id:3000160数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000160" }
+2019-09-30 18:09:25,942 - get_book_by_proxy.py[line:157] - ERROR - id:3000162数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000162" }
+2019-09-30 18:09:28,313 - get_book_by_proxy.py[line:157] - ERROR - id:3000165数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000165" }
+2019-09-30 18:09:31,268 - get_book_by_proxy.py[line:157] - ERROR - id:3000167数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000167" }
+2019-09-30 18:09:32,231 - get_book_by_proxy.py[line:157] - ERROR - id:3000169数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000169" }
+2019-09-30 18:09:33,558 - get_book_by_proxy.py[line:157] - ERROR - id:3000170数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000170" }
+2019-09-30 18:09:38,065 - get_book_by_proxy.py[line:157] - ERROR - id:3000175数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000175" }
+2019-09-30 18:09:40,011 - get_book_by_proxy.py[line:157] - ERROR - id:3000179数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000179" }
+2019-09-30 18:09:40,362 - get_book_by_proxy.py[line:157] - ERROR - id:3000180数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000180" }
+2019-09-30 18:09:41,598 - get_book_by_proxy.py[line:157] - ERROR - id:3000182数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000182" }
+2019-09-30 18:09:41,715 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：58.22.204.230:4920
+2019-09-30 18:09:42,531 - get_book_by_proxy.py[line:157] - ERROR - id:3000184数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000184" }
+2019-09-30 18:09:44,529 - get_book_by_proxy.py[line:157] - ERROR - id:3000190数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000190" }
+2019-09-30 18:09:45,168 - get_book_by_proxy.py[line:157] - ERROR - id:3000192数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000192" }
+2019-09-30 18:09:45,530 - get_book_by_proxy.py[line:157] - ERROR - id:3000193数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000193" }
+2019-09-30 18:09:52,363 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：113.117.66.63:4920
+2019-09-30 18:09:54,427 - get_book_by_proxy.py[line:159] - ERROR - id:3000214访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000214?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04AC00D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-09-30 18:09:54,501 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：113.117.66.63:4920
+2019-09-30 18:09:56,562 - get_book_by_proxy.py[line:159] - ERROR - id:3000215访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000215?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04AC0BF0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-09-30 18:09:56,646 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：113.117.66.63:4920
+2019-09-30 18:09:58,714 - get_book_by_proxy.py[line:159] - ERROR - id:3000216访问失败,错误信息：SOCKSHTTPSConnectionPool(host='api.douban.com', port=443): Max retries exceeded with url: /v2/book/3000216?apikey=0df993c66c0c636e29ecbb5344252a4a (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x04ADD470>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2019-09-30 18:09:58,908 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：171.11.226.128:39828
+2019-09-30 18:10:09,350 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：114.99.14.152:4920
+2019-09-30 18:10:14,137 - get_book_by_proxy.py[line:157] - ERROR - id:3000263数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000263" }
+2019-09-30 18:10:17,555 - get_book_by_proxy.py[line:157] - ERROR - id:3000275数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000275" }
+2019-09-30 18:10:19,255 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：222.220.152.160:4920
+2019-09-30 18:10:24,298 - get_book_by_proxy.py[line:157] - ERROR - id:3000288数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000288" }
+2019-09-30 18:10:33,799 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：119.187.231.13:21853
+2019-09-30 18:10:48,934 - get_book_by_proxy.py[line:96] - INFO - 代理获取成功：111.77.21.53:1209
+2019-09-30 18:11:02,992 - get_book_by_proxy.py[line:157] - ERROR - id:3000345数据库插入失败,错误信息：E11000 duplicate key error collection: ResourcesDB.ResDoubanBook index: id_1 dup key: { : "3000345" }
