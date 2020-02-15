@@ -87,10 +87,12 @@ def run():
                     Sheet = resJson[0].get('Sheet') if resJson[0].get('Sheet')!='' else None
                     Language = resJson[0].get('Language') if resJson[0].get('Language')!='' else None
                     WordNum = resJson[0].get('WordNum') if resJson[0].get('WordNum')!='' else None
+                    Abstract = resJson[0].get('Abstract') if resJson[0].get('Abstract')!='' else None
+                    Kind = resJson[0].get('Kind') if resJson[0].get('Kind')!='' else None
                     # myapp.info(AuthorIntroduction)
                     
                     try:
-                        baseDb.ExecNonQuery("update resopenbook set AuthorIntroduction=%s,MarketingActivity=%s,Recommendation=%s,Catalogue=%s,ReaderGroup=%s,Sheet=%s,Language=%s,WordNum=%s where id=%s",(AuthorIntroduction,MarketingActivity,Recommendation,Catalogue,ReaderGroup,Sheet,Language,WordNum,rowid))
+                        baseDb.ExecNonQuery("update resopenbook set AuthorIntroduction=%s,MarketingActivity=%s,Recommendation=%s,Catalogue=%s,ReaderGroup=%s,Sheet=%s,Language=%s,WordNum=%s,Abstract=%s,Kind=%s where id=%s",(AuthorIntroduction,MarketingActivity,Recommendation,Catalogue,ReaderGroup,Sheet,Language,WordNum,Abstract,Kind,rowid))
                     except Exception as err:
                         myapp.error("数据库更新失败：{0}".format(err))
                 except Exception as err:
